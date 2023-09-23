@@ -22,7 +22,7 @@
 # Steps
 
 ```
-$ git clone https://github.com/Ladvace/SvelteKit-Portfolio
+$ git clone https://github.com/suayebahmed/Portfolio.git
 
 $ cd SvelteKit-Portfolio
 
