@@ -3,17 +3,14 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo — About</title>
+	<title>Suayeb Ahmed — About</title>
 </svelte:head>
 
 <div class="container">
 	<main>
 		<h1>About</h1>
 		<p>
-			I'm a Software developer with over 2 years of front-end development experience, experienced in
-			both enterprise and open-source software development. I'm based in Italy and currently working
-			as a freelancer and coding in Node.js, React.js (and other web technologies) and Go(lang), but
-			I tend to learn and use the best technology and approach to best solve the problem I'm facing.
+			Hello, I am a student of CS in University of Memphis. I want to become a Software Developer or an Data Analyst. I working and gaining knowledge to accomplish my goal. In this Journey, I learned so many tech to proof my ability. I will list some of them below.
 		</p>
 		<h2>Skills</h2>
 		{#each Object.entries(skills) as [section, technologies]}

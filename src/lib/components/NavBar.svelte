@@ -9,7 +9,7 @@
 <div class={opened ? 'NavBar open' : 'NavBar'}>
 	<div class="innerContainer">
 		<a href="/">
-			<img src={Logo} alt="logo" class="logo" />
+			<b>S.Ahmed</b>
 		</a>
 		<div class="burger">
 			<Burger bind:open={opened} />

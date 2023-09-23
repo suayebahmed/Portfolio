@@ -10,14 +10,16 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo — Blog</title>
+	<title>Suayeb Ahmed — Blog</title>
 </svelte:head>
 
 <div class="articlesContainer">
 	<div class="articles">
-		<h1>Articles</h1>
+		<!-- <h1>Articles</h1> -->
 
-		{#each filteredArticles as article}
+		<p>No article written yet</p>
+
+		<!-- {#each filteredArticles as article}
 			<div class="article">
 				<div class="header">
 					<h2>
@@ -35,8 +37,8 @@
 				>
 					<div class="button">Read Article =></div>
 				</a>
-			</div>
-		{/each}
+			</div> -->
+		<!-- {/each} -->
 		{#if filteredArticles.length === 0}
 			<div>No Articles</div>
 		{/if}

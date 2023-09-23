@@ -4,13 +4,14 @@
 	import FaEnvelope from 'svelte-icons/fa/FaEnvelope.svelte';
 	import FaMedium from 'svelte-icons/fa/FaMedium.svelte';
 	import { modalOpened } from '$lib/store';
+	import DownloadResume from '$lib/components/DownloadResume.svelte';
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo - Main page</title>
+	<title>Suayeb Ahmed</title>
 </svelte:head>
 <main>
-	<h1>Hi!✋ <br /> I'm Gianmarco a Front-End Developer 💻 based in Italy</h1>
+	<h1>Hi!✋ <br /> I'm Suayeb. A Student of Computer Science 💻 based in Memphis,USA</h1>
 	<div class="icons">
 		<div
 			role="button"
@@ -28,7 +29,7 @@
 		</div>
 
 		<a
-			href="https://github.com/Ladvace"
+			href="https://github.com/suayebahmed"
 			aria-label="GitHub"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -38,7 +39,7 @@
 			</div>
 		</a>
 		<a
-			href="https://www.linkedin.com/in/ladvace/"
+			href="https://www.linkedin.com/in/suayeb-ahmed/"
 			aria-label="Linkedin"
 			target="_blank"
 			rel="noopener noreferrer"
@@ -47,7 +48,9 @@
 				<FaLinkedin />
 			</div>
 		</a>
-		<a
+
+		
+		<!-- <a
 			href="https://medium.com/@ladvace"
 			aria-label="Medium"
 			target="_blank"
@@ -56,8 +59,9 @@
 			<div class="icon">
 				<FaMedium />
 			</div>
-		</a>
+		</a> -->
 	</div>
+	<DownloadResume />
 </main>
 
 <style>

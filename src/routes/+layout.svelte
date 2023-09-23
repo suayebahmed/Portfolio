@@ -121,7 +121,7 @@
 <slot />
 
 <footer>
-	Created by <a class="me" href="/about">Ladvace</a> ❤️ with
+	Created by <a class="me" href="/about">S.Ahmed</a> ❤️ with
 	<span class="svelte">Svelte</span>
 </footer>
 
@@ -154,7 +154,7 @@
 		height: 100%;
 		overflow: auto;
 		font-family: 'Fira Code', monospace;
-		background-color: #0a0908;
+		background-color: #000000;
 	}
 
 	:global(body) {

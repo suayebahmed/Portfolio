@@ -1,23 +1,23 @@
 const projects = [
 	{
-		title: 'GDLauncher',
-		technologies: ['Node', 'React', 'Redux', 'Electron'],
+		title: 'AnimeVerse | A social media for the Anime Lovers',
+		technologies: ['Ruby on Rails', 'PostgreSQL', 'HTML', 'CSS', 'Bootstrap'],
 		description:
-			'GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience',
-		url: 'https://github.com/gorilla-devs/GDLauncher'
+			'This is social media kind of website where Anime Lovers can go and talk about their favorite Anime, write down reviews about them, rate those anime and many more.',
+		url: ''
 	},
 	{
-		title: 'WiseMan Discord Bot',
-		technologies: ['NodeJs', 'FireBase', 'MongoDb', 'golang'],
+		title: 'MyMoments - A note app',
+		technologies: ['Django', 'MySQL', 'HTML', 'Bootstrap', 'CSS'],
 		description:
-			'The wiseMan bot allows you to level up based on the time you spend in a vocal channel',
-		url: 'https://github.com/Ladvace/WiseMan-DiscordBot'
+			'This is website where you can add all your special moments. Only you, as a user can add, edit, and delete your moment. Everyone can see your moment and read it.',
+		url: 'https://github.com/suayebahmed/MyMoment-NoteApp'
 	},
 	{
-		title: 'Easy-react-carousel',
-		technologies: ['React', 'NodeJs'],
-		description: 'A simple carousel made in reactjs',
-		url: 'https://github.com/Ladvace/easy-react-carousel'
+		title: 'Academics List',
+		technologies: ['Django', 'MYSQL', 'CSS', 'HTML', 'Bootstrap'],
+		description: 'This a website where any .edu email holder can go and find out nearest best rated businesses(real estate, home services, healthcare, car services, cafe)',
+		url: 'https://github.com/YALKO-Hub/Academic-List'
 	}
 ];
 
