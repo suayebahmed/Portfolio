@@ -10,13 +10,16 @@
 - Fully Responsive
 - Performances and SEO optimizations
 
+![Screenshot 2023-09-23 at 2 05 01 PM](https://github.com/suayebahmed/Portfolio/assets/63619068/91ec6bcd-e455-459d-9ecc-e64f52d48219)
+![Screenshot 2023-09-23 at 2 04 49 PM](https://github.com/suayebahmed/Portfolio/assets/63619068/181f266c-a1f9-49ce-9258-147b70f46378)
+![Screenshot 2023-09-23 at 2 02 48 PM](https://github.com/suayebahmed/Portfolio/assets/63619068/5a72e1d1-fed0-4ae7-bf27-96bd4d2b4d19)
 
 # Dependencies
 
 - svelte-icons
 - @sveltejs/adapter-netlify
 
-# Steps ▶️
+# Steps
 
 ```
 $ git clone https://github.com/Ladvace/SvelteKit-Portfolio
@@ -28,12 +31,6 @@ $ npm install
 $ npm run dev
 ```
 
-# Deploy on Netlify 🚀
-
-Deploying your website on Netlify it's optional but I reccomand it in order to deploy it faster and easly.
-
-You just need to fork this repo and linking it to your Netlify account.
-
-## Authors ❤️
+## Authors
 
 - Suayeb Ahmed - https://github.com/suayebahmed
